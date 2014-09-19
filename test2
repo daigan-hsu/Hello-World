@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+  int summ = 8*9;
+  printf("He has %d books.\n", summ);
+  return 0;
+}
